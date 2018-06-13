@@ -1,0 +1,74 @@
+.block{
+  background-color:black;
+  opacity:.8;
+  padding:10px;
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:300px;
+  margin-bottom:10px;
+  border-radius:10px;
+}
+.nav-pills{
+  font-family:Lobster;
+  font-size:30px;
+  background-color:black;
+  margin-bottom:10%;
+}
+body{
+  background-image:url(https://ak4.picdn.net/shutterstock/videos/22447294/thumb/1.jpg);
+  background-size:cover;
+  background-color:white;
+}
+h1{
+  padding:0;
+  margin-top:0px;
+  color:white;
+  font-size:5.0em;
+}
+h3{
+  color:white;
+}
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:blue;
+  font-size:1.7em;
+}
+.pageOne{
+  font-family:Lobster;
+  height:800px;
+}
+.pageTwo{
+  background:url(https://cdn5.f-cdn.com/contestentries/212081/10921447/5549c4471c049_thumb900.jpg);
+  background-size:cover;
+  height:800px;
+  padding-top:5%;
+}
+p{
+  font-size:2.0em;
+  color: white;
+}
+.me{
+  height:300px;
+}
+.page3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://ak6.picdn.net/shutterstock/videos/11748722/thumb/7.jpg);
+  background-size: cover ;
+  background-position: 50% 50%;
+  }
+
+.textpage3 {
+  padding: 10%;
+}
+
+.page4 {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://ak4.picdn.net/shutterstock/videos/23759764/thumb/1.jpg);
+  background-size: cover ;
+  background-position: 50% 50%;
+  }
+
+.textpage4 {
+  padding: 10%;
+}
+
