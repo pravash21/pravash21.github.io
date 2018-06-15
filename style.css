@@ -60,6 +60,7 @@ p{
 
 .textpage3 {
   padding: 10%;
+  color:white;
 }
 
 .page4 {
@@ -70,5 +71,9 @@ p{
 
 .textpage4 {
   padding: 10%;
+  color:white;
 }
 
+#change{
+  color:white;
+}
